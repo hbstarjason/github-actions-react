@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://[username].github.io/github-actions-demo",
+  "homepage": "https://hbstarjason.github.io/github-actions-react",
   "eslintConfig": {
     "extends": "react-app"
   },
